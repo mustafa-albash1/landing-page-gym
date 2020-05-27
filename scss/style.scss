@@ -10,7 +10,7 @@ $thirdColor: #707070;
 }
 
 .mainContainer {
-  background-image: url("/image/img.jpg");
+  background-image: url("../image/img.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -19,7 +19,7 @@ $thirdColor: #707070;
   padding-top: 5vh;
   position: relative;
   .secondContainer {
-    background-image:url("/image/img.jpg");
+    background-image:url("../image/img.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
